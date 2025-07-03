@@ -55,7 +55,7 @@ Cub3D is our own mini‑Wolfenstein‑style 3D engine using raycasting and MiniL
 
 ## 🔥 Build, run and test
 
-### To test a valid map and play
+### Test a valid map and play
 
 ```
 git clone https://github.com/izzytoot/cub3d.git
@@ -74,7 +74,7 @@ Controls:
 | →	| Rotate view to right |
 | ESC / X	| Exit |
 
-### To test an invalid map
+### Test an invalid map
 
 ```
 git clone https://github.com/izzytoot/cub3d.git
